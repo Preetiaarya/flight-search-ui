@@ -1,0 +1,27 @@
+div {
+
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+
+}
+
+button {
+    width: 6%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+}
+
+.btn-1 {
+    background-color: #3381bb;
+}
+
+.btn-2 {
+    background-color: #2f7db3;
+}
+
+.btn-3 {
+    background-color: #2d7bad;
+}
